@@ -3,5 +3,5 @@
     "request": "launch",
     "name": "Launch JavaFX App",
     "mainClass": "ImageGrid",
-    "vmArgs": "--module-path /Users/maiwasetembo/javafx-sdk-17.0.13/lib --add-modules javafx.controls,javafx.fxml"
+    "vmArgs": "--module-path /Users/maiwasetembo/javafx-sdk-17.0.13/lib --add-modules javafx.controls,javafx.fxml ImageGrid.java"
 }

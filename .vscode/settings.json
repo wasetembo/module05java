@@ -1,6 +1,15 @@
 {
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "/Users/maiwasetembo/javafx-sdk-17.0.13/**/*.jar"
+        "/Users/maiwasetembo/javafx-sdk-17.0.13/lib/javafx.media.jar",
+        "/Users/maiwasetembo/javafx-sdk-17.0.13/lib/javafx.graphics.jar",
+        "/Users/maiwasetembo/javafx-sdk-17.0.13/lib/javafx-swt.jar",
+        "/Users/maiwasetembo/javafx-sdk-17.0.13/lib/javafx.swing.jar",
+        "/Users/maiwasetembo/javafx-sdk-17.0.13/lib/javafx.base.jar",
+        "/Users/maiwasetembo/javafx-sdk-17.0.13/lib/javafx.fxml.jar",
+        "/Users/maiwasetembo/javafx-sdk-17.0.13/lib/javafx.controls.jar",
+        "/Users/maiwasetembo/javafx-sdk-17.0.13/lib/javafx.web.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
     ]
 }
